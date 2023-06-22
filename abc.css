@@ -1,6 +1,9 @@
 body{
     background-color: rgb(132, 247, 247);
 }
+button:active{
+    background-color: black;
+}
 .group{
     padding-top: 15px;
 }
