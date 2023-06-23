@@ -2,7 +2,7 @@ body{
     background-color: rgb(132, 247, 247);
 }
 button:active{
-    background-color: black;
+    background-color: rgb(255, 166, 166);
 }
 .group{
     padding-top: 15px;
